@@ -1,7 +1,5 @@
-<h1 align="center">Hi i'm bardia Bardia</h1>
-<h3 align="center">software developer based on web cloud system, computer programmer Also, the developer of various tools and...</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bardiaspvtext" alt="bardiaspvtext" /></a> </p>
+<h1 align="center">Hi i'm Bardia</h1>
+<h3 align="center">software developer based on web cloud system, computer programmer Also, the developer of various tools and ...</h3>
 
 - 📫 How to reach me **bardia.snetwork@gmail.com**
 
@@ -17,3 +15,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bardiaspvtext&show_icons=true&locale=en&layout=compact" alt="bardiaspvtext" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bardiaspvtext&" alt="bardiaspvtext" /></p>
+
