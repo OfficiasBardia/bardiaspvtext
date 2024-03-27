@@ -2,7 +2,7 @@
 <h3 align="center">software developer based on web cloud system, computer programmer Also, the developer of various tools and ...</h3>
 
 <div>
-<img align="right" alt="error" with="200" src="https://cdn.dribbble.com/users/214929/screenshots/4967879/ai-loader-opt.gif">
+<img align="right" alt="error" widh="500" src="https://cdn.dribbble.com/users/214929/screenshots/4967879/ai-loader-opt.gif">
 </div>
 
 - 📫 How to reach me **bardia.snetwork@gmail.com**
