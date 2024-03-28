@@ -3,7 +3,7 @@
 <h3 align="center">software developer based on web cloud system, computer programmer Also, the developer of various tools and ...</h3>
 
 <div>
-<img align="right" alt="error" width="400"  style="border-radius: 50px;" src="https://cdn.dribbble.com/users/214929/screenshots/4967879/ai-loader-opt.gif">
+<img align="right" alt="error" width="400"  style="border-radius: 50px;" src="/img.png">
 </div>
 
 
