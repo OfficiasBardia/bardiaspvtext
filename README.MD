@@ -8,7 +8,7 @@
 <h3 align="left">Fast communication with me:</h3>
 
 - 📫 Email    **bardia.snetwork@gmail.com**
-- 📩 Telegram **bardia.snetwork@gmail.com**
+- 📩 Telegram **https://t.me/bardiapvtext**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
