@@ -21,8 +21,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bardiaspvtext&show_icons=true&locale=en&layout=compact" alt="bardiaspvtext" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bardiaspvtext&" alt="bardiaspvtext" /></p>
-<style>
-.p {
-display:none;
-}
-</style>
