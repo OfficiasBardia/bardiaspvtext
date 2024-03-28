@@ -5,7 +5,7 @@
 <img align="right" alt="error" width="300"  style="border-radius: 50px;" src="/img.png">
 </div>
 
-<h3 align="left">Fast communication with me:</h3>
+
 - 📫 Email    **bardia.snetwork@gmail.com**
 
 
