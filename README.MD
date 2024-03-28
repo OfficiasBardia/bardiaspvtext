@@ -12,7 +12,7 @@
 <h3 align="left">Fast communication with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bardiapvtext" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bardiapvtext" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bardia-samadi" target="blank"><img align="center" src="https://www.linkedin.com/in/bardia-samadi-aab77a2b9/generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bardia-samadi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bardia-samadi" target="blank"><img align="center" src="https://www.linkedin.com/in/bardia-samadi-aab77a2b9/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bardia-samadi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
