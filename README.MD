@@ -2,7 +2,7 @@
 <h3 align="center">software developer based on web cloud system, computer programmer Also, the developer of various tools and ...</h3>
 
 <div>
-<img align="right" alt="error" height="20" width="300"  style="border-radius: 50px;" src="/img.png">
+<img align="right" alt="error" height="320" width="300"  style="border-radius: 50px;" src="/img.png">
 </div>
 
 <h3 align="left">contact with me</h3>
